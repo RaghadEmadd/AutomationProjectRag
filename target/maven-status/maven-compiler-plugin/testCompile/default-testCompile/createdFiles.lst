@@ -1,0 +1,16 @@
+org\example\stepDefs\D03_currencyStepDef.class
+org\example\stepDefs\D04_searchStepDef.class
+org\example\stepDefs\D07_followUsStepDef.class
+org\example\pages\P04_search.class
+org\example\stepDefs\Hooks.class
+org\example\pages\P02_login.class
+org\example\stepDefs\D01_registerStepDef.class
+org\example\pages\P07_followUs.class
+org\example\pages\P01_register.class
+org\example\pages\P06_slider.class
+org\example\stepDefs\D06_sliderStepDef.class
+org\example\pages\P05_homepage.class
+org\example\stepDefs\D05_hoverStepDef.class
+org\example\stepDefs\D02_loginStepDef.class
+org\example\testRunners\runners.class
+org\example\pages\P03_currency.class
